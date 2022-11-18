@@ -6,11 +6,13 @@
 
 ## نحوه اجرا : 
 
-فایل index.php را در سرور خود آپلود میکنید
+فایل index.php را در سرور خود آپلود میکنید.
+
+و پارامتر نام را برای آن با متود گت مشخص میکنید.
 
 مثال : 
 
-https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
+https://yourdomain.com/index.php?name=laravel
 
 خروجی شما بصورت جیسون خواهد بود
 
@@ -18,23 +20,19 @@ https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
 
 -------------------------------------------------------------------------
 
-# Link Shortener
+# Book search
 
-A link shortener service with a custom domain
+A web service (API) for book search
 
 ## How to run:
 
-First, upload all the files to your server
+You upload the index.php file to your server.
 
-Edit the file index.php in line 7 and put your domain address
-
-In the tab.php file, you can put your ads and personalize your ads page
-
-And finally, you can shorten your link by running index.php and giving name and link parameters
+And you specify the name parameter for it with the get method.
 
 Example :
 
-https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
+https://yourdomain.com/index.php?name=laravel
 
 Your output will be as Json
 
@@ -43,14 +41,9 @@ Good luck
 -------------------------------------------------------------------------
 
 ### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/shortLink)](https://github.com/malbo-dev/shortLink/stargazers)
+[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/searchBook)](https://github.com/malbo-dev/searchBook/stargazers)
 
 ## 🔗 Channel - شبکه های اجتماعی
 [![instagram](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/Malbo_Dev)
 [![instagram](https://img.shields.io/badge/Channel-Youtube-red)](https://www.youtube.com/channel/UCRXB3lWiZHPwfgcXMjfUzYA)
 [![instagram](https://img.shields.io/badge/Channel-Instagram-pink)](https://instagram.com/malbo.dev)
-
-## Warning - توجه
-
-⚠️ Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
- Tools is built for both Educational and Internal use ONLY. ⚠️
