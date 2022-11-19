@@ -41,7 +41,7 @@ Good luck
 -------------------------------------------------------------------------
 
 ### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/searchBook)](https://github.com/malbo-dev/searchBook/stargazers)
+[![Stargazers repo roster for malbo-dev](https://reporoster.com/stars/dark/malbo-dev/searchBook)](https://github.com/malbo-dev/searchBook/stargazers)
 
 ## 🔗 Channel - شبکه های اجتماعی
 [![instagram](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/Malbo_Dev)
